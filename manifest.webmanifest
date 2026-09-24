@@ -1,0 +1,16 @@
+{
+  "name": "Enjoy Creator Academy",
+  "short_name": "ECA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0c0e",
+  "theme_color": "#0b0c0e",
+  "description": "Tamil-first AI learning platform by Enjoy Creator Academy",
+  "icons": [
+    {
+      "src": "assets/eca-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
